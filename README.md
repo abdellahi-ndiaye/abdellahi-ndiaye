@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to My GitHub Profile</h1>
+<h1 align="center">
+  <img src="https://www.svgrepo.com/show/331248/hand-wave.svg" alt="Welcome Icon" height="30" />
+  Welcome to My GitHub Profile
+</h1>
 
 <p align="center">
   <strong>I'm Abdellahi Ndiaye</strong><br/>
@@ -7,7 +10,7 @@
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
@@ -21,7 +24,7 @@
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 <table>
   <thead>
@@ -71,7 +74,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=github_dark" alt="GitHub Stats" />
@@ -79,7 +82,7 @@
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: [abdallahi.ndiiaye@gmail.com](mailto:abdallahi.ndiiaye@gmail.com)
 
@@ -87,30 +90,4 @@
 
 <p align="center">
   <em>Thank you for visiting my profile. Always learning, always building.</em>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="25"/> Contact Me
-
-- Email: *abdallahi.ndiiaye@gmail.com*
-
----
-
-<p align="center">
-  <em>Thanks for visiting. Always learning. Always building.</em>
-</p>
-
-## 📬 Contact Me
-
-- 📧 Email: *abdallahi.ndiiaye@gmail.com*
-
----
-
-<p align="center">
-  ✨ I'm always learning, building, and exploring. Thanks for visiting!
 </p>
