@@ -2,78 +2,92 @@
 
 <p align="center">
   <strong>I'm Abdellahi Ndiaye</strong><br/>
-  A developer passionate about full-stack development, clean code, and cross-technology projects.
+  A passionate developer building full-stack and cross-platform applications.
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" height="25"/> Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
+</div>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Technologies</th>
-  </tr>
-  <tr>
-    <td><strong>Bac Result Calculator</strong></td>
-    <td>Tool for predicting baccalaureate scores based on user input.</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Classic Web Page</strong></td>
-    <td>Responsive static web page with interactive JS elements.</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>React UI</strong></td>
-    <td>Component-based dynamic frontend application.</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Node.js API Server</strong></td>
-    <td>Minimal backend server using Express.js.</td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="left">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Bac Result Calculator</strong></td>
+      <td>Tool to calculate expected baccalaureate results.</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Classic Web Page</strong></td>
+      <td>Static responsive page with styled content.</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>React UI</strong></td>
+      <td>Modern frontend interface using React.</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Node.js API</strong></td>
+      <td>Lightweight backend with Express.js.</td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="25"/> GitHub Stats
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+---
+
+## Contact
+
+- Email: [abdallahi.ndiiaye@gmail.com](mailto:abdallahi.ndiiaye@gmail.com)
+
+---
+
+<p align="center">
+  <em>Thank you for visiting my profile. Always learning, always building.</em>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
