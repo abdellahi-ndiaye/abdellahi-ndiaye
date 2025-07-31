@@ -1,43 +1,43 @@
 <h1 align="center">
-  <img src="https://www.svgrepo.com/show/331248/hand-wave.svg" alt="Welcome Icon" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="Welcome" height="30"/>
   Welcome to My GitHub Profile
 </h1>
 
 <p align="center">
   <strong>I'm Abdellahi Ndiaye</strong><br/>
-  A passionate developer building full-stack and cross-platform applications.
+  Developer focused on clean, cross-platform, and full-stack applications.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg" height="20"/> Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
 </div>
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> Projects
 
 <table>
   <thead>
     <tr>
       <th align="left">Project</th>
       <th align="left">Description</th>
-      <th align="left">Technologies</th>
+      <th align="left">Tech</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Bac Result Calculator</strong></td>
-      <td>Tool to calculate expected baccalaureate results.</td>
+      <td>Predict baccalaureate scores using inputs.</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" />
@@ -45,8 +45,8 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Classic Web Page</strong></td>
-      <td>Static responsive page with styled content.</td>
+      <td><strong>Static Web Page</strong></td>
+      <td>Simple responsive static webpage design.</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" />
@@ -55,15 +55,14 @@
     </tr>
     <tr>
       <td><strong>React UI</strong></td>
-      <td>Modern frontend interface using React.</td>
+      <td>User interface built using React.</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
       </td>
     </tr>
     <tr>
-      <td><strong>Node.js API</strong></td>
-      <td>Lightweight backend with Express.js.</td>
+      <td><strong>Node.js Backend</strong></td>
+      <td>REST API with Express.js.</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
@@ -74,20 +73,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdellahi-ndiaye&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 📫 Contact
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/> Contact
 
 - Email: [abdallahi.ndiiaye@gmail.com](mailto:abdallahi.ndiiaye@gmail.com)
 
 ---
 
 <p align="center">
-  <em>Thank you for visiting my profile. Always learning, always building.</em>
+  <em>Thanks for visiting — clean code, clean design, always improving.</em>
 </p>
